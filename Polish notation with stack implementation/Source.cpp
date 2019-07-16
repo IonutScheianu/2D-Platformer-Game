@@ -1,6 +1,6 @@
 #include<iostream>
 #include"myStack.h"
-
+//abc
 void readExpression(char*& initialExpression, int& initialExpressionSize)
 {
 	int index;
