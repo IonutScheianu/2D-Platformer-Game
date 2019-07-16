@@ -3,7 +3,7 @@
 TravelCatalog::TravelCatalog()
 {
 }
-
+//
 void TravelCatalog::addOffer()
 {
 	TravelOffer offer;
