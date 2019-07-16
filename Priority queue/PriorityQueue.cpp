@@ -1,7 +1,7 @@
 #include "PriorityQueue.h"
 #include<fstream>
 #include<iostream>
-
+//
 void PriorityQueue::readFromFile()
 {
 	int cheie;
