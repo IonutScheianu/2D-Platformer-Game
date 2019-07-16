@@ -1,7 +1,7 @@
 #include "Date.h"
 #include<iostream>
 #include<ctime>
-
+/**/
 Date::Date()
 {
 	m_day = NULL;
