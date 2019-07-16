@@ -1,6 +1,6 @@
 #pragma once
 #include<vector>
-//abcd
+//abcdefg
 struct Node
 {
 	int info;
